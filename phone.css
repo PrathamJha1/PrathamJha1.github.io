@@ -1,0 +1,66 @@
+#Home{
+    height:500px;
+    padding: 3px 65px;
+    margin: 0px 0px 0px 0px;
+    gap:20px;
+}
+#Home::before{
+    height:700px;
+}
+#Home p{
+    font-size: 16px;
+    /* background:rgba(0, 0, 0, 0.671); */
+    padding:0px;
+    margin:0px 0px 0px 0px;
+}
+#services h1{
+    font-size: 40px;
+    margin-top: 70px;
+}
+ul{
+    gap:0px;
+    margin:0px 0px 0px 0px;
+
+}
+ul li{
+    font-size: 24px;
+}
+#services .ours{
+    flex-direction: column;
+
+}
+#contacts::before{
+    height:600px;
+}
+#nav{
+    flex-direction: column;
+
+}
+#nav ul li  a{
+    font-size: 24px;
+    padding:0px 5px;
+
+}
+#welcome{
+font-size:32px;
+padding:0px;
+margin:0px 0px 0px 0px;
+}
+.images{
+    flex-direction: column;
+    gap:0px;
+}
+.images img{
+    height:160px;
+    width:138px;
+}
+#foot textarea,
+input {
+    width:90%;
+}
+#contacts h1{
+font-size: 40px;
+}
+#foot h1{
+font-size: 40px;
+}
